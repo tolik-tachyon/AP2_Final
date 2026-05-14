@@ -38,6 +38,7 @@ build/
 # =========================
 vendor/
 coverage.out
+.gocache/
 
 # =========================
 # Docker
